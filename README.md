@@ -129,5 +129,4 @@ Olympics-Analysis/
 ├── Olympics Analysis.py # Python script with SQL queries, data processing, and visualizations
 ├── Olympics_db # SQL database file (created from raw CSVs or provided)
 ├── Plots # All visualized charts
-├── Presentation # A presentation file to document the project
 └── README.md # Project documentation
